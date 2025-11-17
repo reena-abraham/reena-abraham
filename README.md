@@ -1,7 +1,7 @@
 ### 🌟 Hey there! I'm Reena Abraham 👋
 ---
-🌱 Currently learning: Node.js, MongoDB, Python (Django)  
-💬 Ask me about: PHP, Laravel, CodeIgniter, MySQL  
+🌱 **Currently learning:**&nbsp;&nbsp; Node.js, MongoDB, Python (Django)  
+💬 **Ask me about:**&nbsp;&nbsp; PHP, Laravel, CodeIgniter, MySQL
 
 
 ### 💻 Languages & Tools
