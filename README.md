@@ -1,6 +1,5 @@
 ### 🌟 Hey there! I'm Reena Abraham 👋
-* * *
-
+---
 🌱 Currently learning: Node.js, MongoDB, Python (Django)  
 💬 Ask me about: PHP, Laravel, CodeIgniter, MySQL  
 
@@ -15,7 +14,4 @@
 ![AJAX](https://img.shields.io/badge/AJAX-007FFF?style=for-the-badge&logo=ajax&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-* * *
-
-
-
+---
