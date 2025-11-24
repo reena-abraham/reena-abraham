@@ -3,6 +3,7 @@
 🌱 **Currently learning:**&nbsp;&nbsp; Node.js, MongoDB, Python (Django)  
 💬 **Ask me about:**&nbsp;&nbsp; PHP, Laravel, CodeIgniter, MySQL
 
+---
 
 ### 💻 Languages & Tools
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
